@@ -1,1 +1,17 @@
 remote_theme: kkent030315/jekyll-twitter-theme
+global:
+  # site icon should have 1:1 aspect ratio
+  site_icon: "https://avatars.githubusercontent.com/u/98433999?v=4"
+  nav:
+    caption_home: "Home"
+  profile:
+    image:
+      url: "https://avatars.githubusercontent.com/u/98433999?v=4"
+    name: "Nembdev's  Blog"
+    id: "@nembdev"
+  post:
+    default_thumbnail: "https://avatars.githubusercontent.com/u/98433999?v=4"
+  twitter:
+    show_twitter_embed_timeline: false
+    target_id: "<twitter id that you desired to show timeline on the right side of the page>"
+    limit: 5
