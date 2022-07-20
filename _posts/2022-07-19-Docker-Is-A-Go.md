@@ -11,3 +11,14 @@ Testing out the sample container. This was first use of a container!!!
 crank_hertz is a go
 
 Containers ftw, now to find out what a container IS.
+
+Containers are the new sandbox which is the new croot.
+
+Without issue?* Apparently not.
+
+nothing a purge + sudo apt-get install docker* can't fix
+
+
+
+
+*see second line
