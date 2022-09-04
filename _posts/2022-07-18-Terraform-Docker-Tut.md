@@ -1,5 +1,5 @@
 # Docker Tutorial + More
-The interactive Docker tutorial was prety was cool.
+The interactive Docker tutorial was pretty was cool.
 
 After watching Terraform's intro to Terraform video, the code was easy to follow.
 
